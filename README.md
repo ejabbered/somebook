@@ -1,6 +1,7 @@
 ## GLOSSARY
 
 
+```
 
 ./chemtool
   |-- README
@@ -12,6 +13,7 @@
   |  |-- /file
   |
   |-- slack-desc
+```
 
 
 
