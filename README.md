@@ -4,11 +4,11 @@
 ```
 
 ./somebook
-  |-- android
-  |-- linux
-  |  |-- /debian
-  |  |-- /slackware
-  |  |-- /ubuntu
+  |-- /android
+  |-- /linux
+  |         |-- /debian
+  |         |-- /slackware
+  |         |-- /ubuntu
 
   |-- chemtool.SlackBuild
   |-- chemtool.desktop
