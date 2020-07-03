@@ -2,16 +2,10 @@
 
 
 
--/somebook
-
--/somebook/linux
-
--/somebook/linux/debian
-
--/somebook/linux/ubuntu
-
--/somebook/linux/slackware
-
--/TERMS.md
-
--/README.md
+./chemtool
+  |-- README
+  |-- chemtool.info
+  |-- chemtool.SlackBuild
+  |-- chemtool.desktop
+  |-- chemtool.png
+  |-- slack-desc
