@@ -22,8 +22,9 @@
 
 ```
 ./somebook
+|   GLOSSARY.md
 │   README.md
-│   file001.txt    
+│   TERMS.md    
 │
 └───android
 │   │   file011.txt
