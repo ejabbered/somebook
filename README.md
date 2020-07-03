@@ -3,9 +3,13 @@
 
 ```
 
-./chemtool
-  |-- README
-  |-- chemtool.info
+./somebook
+  |-- android
+  |-- linux
+  |  |-- /debian
+  |  |-- /slackware
+  |  |-- /ubuntu
+
   |-- chemtool.SlackBuild
   |-- chemtool.desktop
   |-- chemtool.png
