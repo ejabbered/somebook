@@ -1,14 +1,16 @@
 
-
+go to /etc/inittab and change runlevel to 4
 
 ifconfig -a  # knew interfaces
 iwconfig     # knew interfaces
 lspci -vnn   # knew interfaces
 
 
-## 0. wpa_passphrase routername routerpassword > /etc/wpa_supplicant 
+0. after installing
 
-## 1. 
+wpa_passphrase routername routerpassword > /etc/wpa_supplicant 
+
+1. 
 
 
 
